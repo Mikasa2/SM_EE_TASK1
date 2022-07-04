@@ -1,7 +1,11 @@
 //CODE FOR SERVO
+
 // C++ code
+
 //
+
 /*
+
   Sweep
 
   by BARRAGAN <http://barraganstudio.com>
@@ -9,6 +13,7 @@
 
   modified 8 Nov 2013  by Scott Fitzgerald
   http://www.arduino.cc/en/Tutorial/Sweep
+  
 */
 
 #include <Servo.h>
