@@ -1,0 +1,12 @@
+#You can simulate the circuit on TINKERCAD
+#To run the code on clockwise 
+
+- PUT 9 on LOW & HIGH
+
+#To run the code on anticlockwise 
+
+- PUT 10 on HIGH
+
+- PUT 9 on HIGH
+
+
